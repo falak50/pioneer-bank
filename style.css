@@ -1,0 +1,39 @@
+body {
+    padding: 200px;
+    background-color: rgb(226, 245, 239);
+}
+
+.sumbit-area {
+    background-color: rgb(251, 240, 226);
+    margin-top: 50px;
+    padding: 70px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+
+}
+
+#transaction-area {
+    display: none;
+}
+
+.com {
+    padding: 30px;
+    margin: 0 20px;
+    border-radius: 10px;
+    color: white;
+}
+
+.deposite {
+
+    background-color: slateblue;
+}
+
+.withdraw {
+
+    background-color: lightsalmon;
+}
+
+.balance {
+
+    background-color: orange;
+}
